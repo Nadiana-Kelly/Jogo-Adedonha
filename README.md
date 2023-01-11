@@ -81,4 +81,5 @@ dos tempos de todas as rodadas.
 
 ![image](https://user-images.githubusercontent.com/82840116/211884487-1c49a087-f481-424d-9264-b7e557524634.png)
 
-
+### Como Compilar 
+- gcc -o nome_exec main.c amedonha.c
