@@ -1,6 +1,8 @@
-## JOGO DO ADEDONHA ##
+## JOGO AMEDONHA ##
 
-### Regras do jogo
+### Desenvolvido em C, o jogo Amedonha é baseado no clássico jogo “Adedonha”, mas com regras próprias e originais. A implementação foi feita seguindo os requisitos a seguir: ###
+
+### Regras do Jogo
 -  Nesse novo jogo, participam de 2 até 10 jogadores. No início do jogo, o
 computador DEVE solicitar a indicação da quantidade de jogadores,
 denominado N. O programa DEVE solicitar também o nome de cada um dos
@@ -68,3 +70,15 @@ rodada a ser jogada) ou final (caso seja o fim do jogo).
 -  Caso haja empate em pontos de dois ou mais jogadores, o ganhador será
 aquele que respondeu todas as rodadas no menor tempo, considerando a soma
 dos tempos de todas as rodadas.
+
+### Imagens do Jogo 
+
+![image](https://user-images.githubusercontent.com/82840116/211883429-7f96539c-0f6a-4899-974d-2cd942595698.png)
+
+![image](https://user-images.githubusercontent.com/82840116/211883613-eb63ebb3-aaa8-453e-8b05-4d3e3b18f5d9.png)
+
+![image](https://user-images.githubusercontent.com/82840116/211883920-2eb739cd-2bd9-478e-bbd4-ef89c3f764fc.png)
+
+![image](https://user-images.githubusercontent.com/82840116/211884487-1c49a087-f481-424d-9264-b7e557524634.png)
+
+
